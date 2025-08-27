@@ -11,6 +11,8 @@ public class sum {
         int b =sc.nextInt();
         int sum=a+b;
         System.out.println("the sum of a+b\n"+sum);
+
+        sc.close();
     }
     
 }

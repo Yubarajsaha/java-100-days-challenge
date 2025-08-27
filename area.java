@@ -11,6 +11,8 @@ public class area {
         // area of the circle 
         double area=pai*redius*redius;
         System.out.println("the area of the circle is:\n "+area);
+
+        sc.close();
     }
     
 }
