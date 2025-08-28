@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class avarage {
+public class AreaOfRetangle {
     public static void main(String[] args) {
         System.out.println("enter wirdth and length of the triangle");
         Scanner sc = new Scanner(System.in);
