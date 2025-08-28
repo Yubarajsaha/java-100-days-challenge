@@ -6,10 +6,10 @@ public class area {
         Scanner sc =new Scanner(System.in);
         
         int redius=sc.nextInt();
-        double pai=3.14;
+        double r=3.14;
 
         // area of the circle 
-        double area=pai*redius*redius;
+        double area=r*redius*redius;
         System.out.println("the area of the circle is:\n "+area);
 
         sc.close();

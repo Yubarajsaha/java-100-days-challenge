@@ -9,7 +9,11 @@ Each day, I will upload my code here and keep track of my progress.
 
 | Day | Topic | Code File |
 |-----|-------|-----------|
-| 01  | Hello World | [Day01/HelloWorld.java](./Day01/HelloWorld.java) |
+| 01  | Hello World | [Day01/HelloWorld.java](Hello.java) |
+| 02  | Sum of two numbers |[Day02/sum.java](sum.java)|
+| 02  | Area of Circle |[Day02/area.java](area.java)|
+| 02  | Area of retangle |[Day02/areaoftriangle.java](avarage.java)|
+
 
 
 ## 🎯 My Goals
