@@ -14,7 +14,7 @@ Each day, I will upload my code here and keep track of my progress.
 | 02  | Area of Circle |[Day02/area.java](area.java)|
 | 02  | Area of retangle |[Day02/areaoftriangle.java](avarage.java)|
 | 03  | Calculator|[Day03/Calculator.java](Calculator.java)|
-
+| 04  | User authentication|[Day04/log.java](log.java)|                   
 
 ## 🎯 My Goals
 - Practice Java consistently for 100 days  
