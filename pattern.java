@@ -1,5 +1,5 @@
 import java.util.*;
-public class pattren {
+public class pattern {
     public static void main(String args []){
 
         System.out.println("enter the number ");
