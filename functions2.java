@@ -4,25 +4,24 @@ public class functions2 {
     public static void addition(int a,int b){
     int sum=a+b;
     System.out.println(sum);
-    return;
     }
 
     public static void subtraction(int a,int b){
     int sub=a-b;
     System.out.println(sub);
-    return;
+    
     }
 
     public static void multiplication(int a,int b){
     int multi=a*b;
     System.out.println(multi);
-    return;
+    
     }
 
     public static void division(int a,int b){
     int div=a/b;
     System.out.println(div);
-    return;
+    
     }
 
 
