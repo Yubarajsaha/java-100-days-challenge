@@ -23,8 +23,6 @@ public class functions2 {
     System.out.println(div);
     
     }
-
-
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Choose the option "); //choose option for which you want to perform //
@@ -69,6 +67,4 @@ public class functions2 {
         System.out.println("successful");
         sc.close();
     }
-
-    
 }
