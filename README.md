@@ -16,8 +16,8 @@ Each day, I will upload my code here and keep track of my progress.
 | 03  | Calculator|[Day03/Calculator.java](Calculator.java)|
 | 04  | User authentication|[Day04/log.java](log.java)| 
 | 05  | Calculate voting age |[Day05/VotingAge.java](VotingAge.java)|
-| 06   | user login using functions|[Day06/log.java](log.java)|
-
+| 06  | user login using functions|[Day06/log.java](log.java)|
+| 06  | first program using loop | [Day06/loop.java](loop.java)|
 ## 🎯 My Goals
 - Practice Java consistently for 100 days  
 - Build a strong foundation in Java programming  
